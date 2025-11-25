@@ -8,7 +8,9 @@
 */
 
 // Add your code right below, good luck!
-
+let fullname= firstName + lastName;
+let age= thisYear - birthYear;
+let greetings= f`Hello! My name is ${fullname} and I am ${age} years old`;
 
 
 
